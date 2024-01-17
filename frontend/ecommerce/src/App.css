@@ -1,0 +1,7 @@
+.banner {
+    width: 100%; /* Defina o tamanho desejado em porcentagem ou em pixels */
+    height: auto; /* Isso mantém a proporção original da imagem */
+    max-width: 1380px; /* Defina um valor máximo para evitar que a imagem fique muito grande */
+    display: block; /* Certifica-se de que a imagem seja exibida como bloco */
+    margin: 0 auto 30px; /* Centraliza a imagem horizontalmente */
+  }

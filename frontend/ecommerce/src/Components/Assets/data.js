@@ -1,6 +1,5 @@
 import p1_img from './product_1.png'
 import p2_img from './product_2.png'
-import p3_img from './product_3.png'
 import p4_img from './product_4.png'
 
 let data_product = [
@@ -17,12 +16,7 @@ let data_product = [
     new_price:85.00,
     old_price:120.50,
   },
-  {id:3,
-    name:"Camiseta Família Skywalker",
-    image:p3_img,
-    new_price:60.00,
-    old_price:100.50,
-  },
+
   {id:4,
     name:"Jaqueta Bomber Droids",
     image:p4_img,

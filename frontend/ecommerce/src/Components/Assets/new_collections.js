@@ -15,7 +15,7 @@ let new_collections = [
   },
   {
     id: 35,
-    name: "Casaco Infantil Stormtrooper",
+    name: "Moletom Infantil Stormtrooper",
     image: p2_img,
     new_price: 85.0,
     old_price: 120.5,
@@ -36,14 +36,14 @@ let new_collections = [
   },
   {
     id: 15,
-    name: "Casaco Star Wars: Uma Nova Esperança",
+    name: "Moletom Star Wars: Uma Nova Esperança",
     image: p5_img,
-    new_price: 50.0,
-    old_price: 80.5,
+    new_price: 85.0,
+    old_price: 120.5,
   },
   {
     id: 7,
-    name: "Cropped Top Rogue One",
+    name: "Moletom Cropped Rogue One",
     image: p6_img,
     new_price: 85.0,
     old_price: 120.5,
