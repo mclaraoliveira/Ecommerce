@@ -13,6 +13,7 @@ const Breadcrumb = (props) => {
         {product.category}
         <img src={arrow_icon} alt="" />
         {product.name}
+
     </div>
   )
 }
